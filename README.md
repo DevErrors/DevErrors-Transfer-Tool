@@ -3,12 +3,12 @@
 Starting 0.0s
 
 Transfering Projects form C:\Users\DevErro\Desktop\Projects
-Finished..
+(Finished..)
 
 Setting Projects to Private
-Finished..
+(Finished..)
 
 Editing account info
-Finished..
+(Finished..)
 
 Completed 12.3s
